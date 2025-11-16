@@ -1,0 +1,8 @@
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\bin\Debug\Project1.exe.config
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\bin\Debug\Project1.exe
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\bin\Debug\Project1.pdb
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\obj\Debug\Project1.exe
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\obj\Debug\Project1.pdb
+C:\Users\swive\source\repos\anti_virus\anti_virus_software\obj\Debug\Project1.exe.config
